@@ -1,6 +1,6 @@
 ## Heya, Im Benjamin!
 
-<img align='right' src="assets/err.png" width="300">
+<img align='right' src="assets/err.png" width="250">
 <p>Just a person with a <em>creative inspiration</em> to code things <br>
 I ususally code tools and such but like to dvelve into other things that <em>inspire</em> me
 </p>
