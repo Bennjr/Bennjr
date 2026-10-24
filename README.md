@@ -1,6 +1,6 @@
 ## Heya, Im Benjamin!
 
-<img align='right' src="assets/err.png" width="220">
+<img align='right' src="assets/err.png" width="200">
 
 ``` rust
 #[derive(Debug)]
