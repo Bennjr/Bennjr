@@ -1,7 +1,5 @@
 ## Heya, Im Benjamin!
 
-<img align='right' src="assets/err.png" width="200">
-
 ``` rust
 #[derive(Debug)]
 struct Person {
@@ -25,3 +23,5 @@ fn main() {
     println!("{me:#?}");
 }
 ```
+
+![Top Languages](https://ghstats.dev/api/langs?username=Bennjr&theme=ayu&hide_border=true&max_langs=6)
